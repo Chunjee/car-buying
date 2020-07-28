@@ -54,13 +54,13 @@ Less-Important:
 
 
 ## Absoulute Basics
-- **Title:**				 The name on the title must match the seller's drivers licence, or at least the last name if they are selling it for their spouse. If you are dealing with a salvage title, know how it works in your state. A salvage title is not popular but can be the source of a steep discount. If dealing with a salvage/rebuilt/etc title, you must search the VIN on google images **and find** an image of the damage at time of salvage auction.
 Important things to check for when scoping out a car that also don't take hours:
+- **Title:**				 The name on the title must match the seller's drivers licence, or at least the last name if they are selling it for their spouse. If you are dealing with a salvage title, know how it works in your state. A salvage title is not popular but can be the source of a steep discount. If dealing with a salvage/rebuilt/etc title, you must [search the VIN on google images **and find** an image of the damage](https://www.google.com/search?q=2FTRX17213CA05298&tbm=isch).
 - **Blown head gasket:**     The ideal check would be performed with a [Block Tester](https://youtu.be/CHp5E7XnbXo); if you don't know how to use one or the test is not practical with the level of coolant, checking under the oil cap can suffice in many cases (unless the seller cleaned it off recently) Check for white smoke after testdrive or 10mins idle if you need further evidence
 - **Blowby:**                With the oilcap and/or dipstick off and the car running, check for blowby by holding your hand over the opening and checking how much air is comming out. Most engine designs will have some ammount, if it feels like the same ammount that is comming out of the tailpipe, that engine is more on the worn side. Its not a walkaway, but you may not want to be spending $4000 or $5000 for it.
 - **Transmission:**          Is the fluid red? Good. Brown or black may make you consider walking away depending on price and severity. Test drive and check if it shifts smoothly multiple times is the best you can do
 - **Exhaust:**               Hold your hand or leg up to the tailpipe exhaust. It should be very even for a 6cyl+ car. Should be basically even for a 4cyl. If it is putting or uneven, could just be a bad sparkplug, could be a bent valve, walk away
-- **Fuel Trim:**             Using an engine scanner, check for Long Term Fuel Trim (LFTF) on bank 1 and 2 (if it has a bank2). Should not go over +/-15% at idle. Should not climb when gas is held at 2,500 RPM. You will have trouble passing emmisions if it exceeds +/-20% at any point. (you may see +99% if you floor the gas though)
+- **Fuel Trim:**             Using an [engine scanner](https://www.amazon.com/LAUNCH-OBD2-Scanner-Universal-Automotive/dp/B07QLTYKDW), check for Long Term Fuel Trim (LFTF) on bank 1 and 2 (if it has a bank2). Should not go over +/-15% at idle. Should not climb when gas is held at 2,500 RPM. You will have trouble passing emmisions if it exceeds +/-20% at any point. (you may see +99% if you floor the gas though)
 - **Engine Codes:**          Using your scanner again, check for Trouble Codes (DTC), check how far the car has driven "since MIL cleared". If the car was cleared of codes less than 200 miles ago, that is a good sign you need to walk away (or go on a really long test drive)
 - **[Stop and Go miles:](https://youtu.be/yK7MXNaNGho)**     Check the brake pedal and drivers seatbelt for excessive wear. If the brake pedal is worn down to metal in any area, that is a walkaway in my book
 
@@ -83,7 +83,7 @@ Not sure what model matches your prefrences? Try these:
 - [Chevrolet](https://www.youtube.com/watch?v=aUe0x9s9nyE)
 - [Buick](https://www.youtube.com/watch?v=GxZUc3DEpPk)
 - [Nissan](https://www.youtube.com/watch?v=s_Y6P_6LFMo)
-- [Pontiac/OldsMobile](https://www.youtube.com/watch?v=OCvmqzRI-BE) *usually good discount
+- [Pontiac/Saturn/OldsMobile](https://www.youtube.com/watch?v=OCvmqzRI-BE) *good place to find a discount
 - [VolksWagon](https://www.youtube.com/watch?v=RG70UZv23dE)
 - [Ford](https://www.youtube.com/watch?v=-vnx_hT2wYQ)
 - [Midsized Trucks](https://www.youtube.com/watch?v=wWP3baxDt3w)
