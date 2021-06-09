@@ -25,8 +25,8 @@ An easy and widely accepted guideline, is not spending more than 10% of you annu
 
 $50,000/year = $5,000 car. Notice something here? You need to be making 80k a year to afford that fancy $8000 truck! Do not fall for the trap of financing something you can't afford, [you are much better off saving your money and making a down payment on a first home than financing a $10,000+ SUV.](https://youtu.be/sQo4nzqYR50?t=290) You can absolutely screw up your ability to buy a house for years because your sedan isn't paid off yet.
 
-> I highly recommend to anyone; avoid having a car payment, if at all possible. I'm on the hook for another three years and it sucks. Buy what you can for cash unless you're in dire straits. 
-<br>My old car was needing $300 repairs on a monthly basis for about five months, so for that amount of money I could have driven something new and far more reliable. That was my logic for buying my new car. Now, I still have over $8K in debt to pay off from it when I could have kept the old car and been debt free--even with costly repairs factored in I'm sure I wouldn't have had a $300 repair _every month_ for three, four, or five years. 
+> I highly recommend to anyone; avoid having a car payment, if at all possible. I'm on the hook for another three years and it sucks. Buy what you can for cash unless you're in dire straits.
+<br>My old car was needing $300 repairs on a monthly basis for about five months, so for that amount of money I could have driven something new and far more reliable. That was my logic for buying my new car. Now, I still have over $8K in debt to pay off from it when I could have kept the old car and been debt free--even with costly repairs factored in I'm sure I wouldn't have had a $300 repair _every month_ for three, four, or five years.
 
 > If you need to finance a car for more than 36 months; you can't afford that vehicle. Take a longer term, and you're going to be CAR POOR for years. Leave your ego at the door, and buy something CHEAPER!
 
@@ -88,3 +88,8 @@ Not sure what model matches your prefrences? Try these:
 - [Ford](https://www.youtube.com/watch?v=-vnx_hT2wYQ)
 - [Midsized Trucks](https://www.youtube.com/watch?v=wWP3baxDt3w)
 - [Fullsize Trucks](https://www.youtube.com/watch?v=u6Jx0dWLQSI)
+
+
+# Further Reading
+## Manufacture Notes
+[Ford Engines](/ford)
