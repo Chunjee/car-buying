@@ -82,11 +82,12 @@ Not sure what model matches your prefrences? Try these:
 - [Asian](https://www.youtube.com/watch?v=VEkg4uTdYn4)
 - [Chevrolet](https://www.youtube.com/watch?v=aUe0x9s9nyE)
 - [Buick](https://www.youtube.com/watch?v=GxZUc3DEpPk)
-- [Nissan](https://www.youtube.com/watch?v=s_Y6P_6LFMo)
+- [Nissan](https://www.youtube.com/watch?v=s_Y6P_6LFMo) ( [2000-2006 Sentra (1.8 or 2.0 4cyl)](https://en.wikipedia.org/wiki/Nissan_Sentra#Fifth_generation_(B15;_1999), [2002-2006 Altima (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Altima#Third_generation_(L31,_2002%E2%80%932006)), [2000-2003 Maxima (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Maxima#Fifth_generation_(A33B;_2000)), [1996-2004 Pathfinder (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Pathfinder#Second_generation_(R50;_1995)) )
 - [Pontiac/Saturn/OldsMobile](https://www.youtube.com/watch?v=OCvmqzRI-BE) *good place to find a discount
-- [VolksWagon](https://www.youtube.com/watch?v=RG70UZv23dE)
-- [Ford](https://www.youtube.com/watch?v=-vnx_hT2wYQ)
-- [Fuel Economy](https://youtu.be/9VoRk-k94Gk) 
+- [VolksWagon](https://www.youtube.com/watch?v=RG70UZv23dE) ( [2008-2012 Golf](https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk6), [1995-2005 JEtta](https://en.wikipedia.org/wiki/Volkswagen_Jetta#Fourth_generation_(A4,_Typ_1J;_1999)), [2006-2012 Phaeton](https://en.wikipedia.org/wiki/Volkswagen_Phaeton#Third_generation_(2008)_(GP2)), [2007-2017 Tiguan (2.0 4cyl)](https://en.wikipedia.org/wiki/Volkswagen_Tiguan#First_generation_(5N;_2007)), [2003-2008 GTI](https://en.wikipedia.org/wiki/Volkswagen_Golf#Fifth_generation_(Mk5/A5,_Typ_1K;_2003)) )
+- [Ford](https://www.youtube.com/watch?v=-vnx_hT2wYQ) ( [2011-2014 Focus](https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)), [2006-2012 Fusion](https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#First_generation_(2006)), [1998-2012 Crown Victoria](https://en.wikipedia.org/wiki/Ford_Crown_Victoria#Second_generation_(EN114;_1998%E2%80%932012)), [2006-2010 Explorer](https://en.wikipedia.org/wiki/Ford_Explorer#Fourth_generation_(U251;_2006)), [2005-2009 Mustang](https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)) )
+- [Fuel Economy](https://youtu.be/9VoRk-k94Gk) ( [1995-2001 Metro](https://en.wikipedia.org/wiki/Geo_Metro#Second_generation_(1995%E2%80%932001)), [2004-2009 Prius](https://en.wikipedia.org/wiki/Toyota_Prius_(XW20)), [2010-2014 Insight](https://en.wikipedia.org/wiki/Honda_Insight#Second_generation_(ZE2/ZE3;_2009)), [1999-2006 Jetta TDI](https://en.wikipedia.org/wiki/Volkswagen_Jetta#Fourth_generation_(A4,_Typ_1J;_1999)) )
+<br>
 
 - [Midsized Trucks](https://www.youtube.com/watch?v=wWP3baxDt3w)
 - [Fullsize Trucks](https://www.youtube.com/watch?v=u6Jx0dWLQSI)
