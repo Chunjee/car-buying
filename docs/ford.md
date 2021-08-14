@@ -1,6 +1,6 @@
 # Notes on Ford Engines
 
-Sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKfg)
+Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKfg)
 
 ## 3 cyl
 - 1.5 boosted, good
@@ -16,9 +16,14 @@ Sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKfg)
 
 ## 6cly
 - 2.7 ecoboost, avoid
+- 2.9 super bad
+- 3.0 super bad
 - 3.5 ecoboost - phasers bad
 - 4.6 **Best Two Overall**
 - 5.0 coyote, great, but noisy
 - 5.4 good
 - 6.2 good
 - 7.3 **Best Two Overall**
+
+## 8cly
+- 5.4 (24 valve) avoid at all costs, (16 valve not as bad)
