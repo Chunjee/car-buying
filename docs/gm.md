@@ -6,12 +6,13 @@
 - 2.4 good
 
 ## 6cly
+- 3.1 avoid at all costs
 - 3.6 avoid at all costs
-- 3.8 Bulletproof
+- 3.8 **bulletproof**
 - 4.3 ok
 
 ## 8cly
-- 4.8 Good
-- 5.3 Good
-- 5.3 with Active Fuel Managment (AFM) avoid at all costs
-- 6.0 with Active Fuel Managment (AFM) avoid at all costs
+- 4.8 good
+- 5.3 good
+- 5.3 (with Active Fuel Managment) avoid at all costs
+- 6.0 (with Active Fuel Managment) avoid at all costs

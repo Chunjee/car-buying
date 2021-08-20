@@ -18,12 +18,12 @@ Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKf
 - 2.7 ecoboost, avoid
 - 2.9 super bad
 - 3.0 super bad
-- 3.5 ecoboost - phasers bad
-- 4.6 **Best Two Overall**
+- 3.5 ecoboost - bad phasers
+- 4.6 **best two overall**
 
 
 ## 8cly
 - 5.0 coyote, great, but noisy
-- 5.4 (24 valve) avoid at all costs, (16 valve not as bad)
+- 5.4 (24 valve) avoid at all costs, 16 valve not as bad
 - 6.2 good
-- 7.3 **Best Two Overall**
+- 7.3 **best two overall**
