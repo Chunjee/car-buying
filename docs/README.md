@@ -100,4 +100,7 @@ Not sure what model matches your prefrences? Try these:
 
 ## Manufacture Notes
 [Ford Engines](/ford)
+
 [GM Engines](/gm)
+
+[Nissan Engines](/nissan)
