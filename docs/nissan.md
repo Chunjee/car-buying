@@ -1,4 +1,4 @@
-# Notes on GM Engines
+# Notes on Nissan Engines
 
 ## 4cly
 - 1.8 very good
