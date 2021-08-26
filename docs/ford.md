@@ -15,10 +15,10 @@ Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKf
 
 
 ## 6cly
-- 2.7 ecoboost, avoid
+- 2.7 boosted, avoid
 - 2.9 super bad
 - 3.0 super bad
-- 3.5 ecoboost - bad phasers
+- 3.5 boosted - bad phasers
 
 
 ## 8cly
