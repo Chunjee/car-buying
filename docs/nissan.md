@@ -1,8 +1,8 @@
 # Notes on Nissan Engines
 
 ## 4cly
-- 1.8 very good
-- 2.0 very good
+- 1.8 great
+- 2.0 great
 - 2.5 avoid
 
 ## 6cly

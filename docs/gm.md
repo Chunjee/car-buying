@@ -1,7 +1,7 @@
 # Notes on GM Engines
 
 ## 4cly
-- 2.2 very good, very simple
+- 2.2 great, very simple
 - 2.3 good
 - 2.4 good
 
