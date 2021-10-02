@@ -17,10 +17,10 @@ Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKf
 ## 6cly
 - 2.7 boosted, avoid
 - 2.9 very bad
-- 3.0 very bad
+- 3.0 avoid at all costs
 - 3.5 boosted - bad phasers
 - 4.0 nightmare
-
+- 4.2 ok
 
 ## 8cly
 - 4.6 great **best two overall**
