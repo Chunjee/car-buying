@@ -73,6 +73,7 @@ Less-Important:
 
 You should be buying something with a timing chain instead of a timing belt. A timing chain with decent oil changes will last 250k miles or more. A timing belt will typically costs $500+ in labor and is moderately difficult to DIY. Unless you can see the timing belt service on carfax or an old looking mechanics sticker; assume it has not been done regardless of what the seller says. If you know the engine uses a timing chain; you can ask if the **belt** has been done recently and the seller says yes, you know you are dealing with a liar. This is an easy way to catch car-flippers in less than 30 seconds, which is a walk away.
 
+If you are comfortable visiting wrecking yards or the junkyard; it can be highly benifitial to buy a car that is avaible there. If you don't do that kind of thing, you can also buy a vehichle that was produced and sold in large quantities which typically ensures that parts are commonly available.
 
 
 # Model Recommendations
