@@ -10,7 +10,7 @@ Throughout the page you will see anecdotes or reinforcements from other sources 
 
 ## Who this is **NOT** written for
 
-This is not for someone looking for a perfect car.
+This is not for someone looking for a perfect car. This is just to get a decent transportation without making a newbie mistake or breaking the bank.
 
 --------------------
 # Part 1: Budget
