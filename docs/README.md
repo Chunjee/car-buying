@@ -10,9 +10,7 @@ Throughout the page you will see anecdotes or reinforcements from other sources 
 
 ## Who this is **NOT** written for
 
-This is not written for someone looking for a perfect car. This is not for someone who cares a lot about low miles. This is not for someone who has to have perfect paint. This is not for prettyboys who are getting a free $8,000 from mom and dad. This is not for you if you plan to spend a hundred hours searching and test driving till you find your perfect unicorn. This is definitely not for you if you think financing for more than 48 months is a good idea.
-
-This is also not for extreme DIYers who want to put a $300 engine in a $500 shell.
+This is not for someone looking for a perfect car.
 
 --------------------
 # Part 1: Budget
