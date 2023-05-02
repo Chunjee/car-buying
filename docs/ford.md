@@ -3,7 +3,7 @@
 Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKfg)
 
 ## 3 cyl
-- 1.5 boosted, good
+- 1.5 turbo, good
 
 ## 4cly
 - 1.0 good
@@ -15,10 +15,10 @@ Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKf
 
 
 ## 6cly
-- 2.7 boosted, avoid
+- 2.7 turbo, great
 - 2.9 very bad
 - 3.0 avoid at all costs
-- 3.5 boosted - bad phasers
+- 3.5 turbo - bad phasers
 - 4.0 nightmare
 - 4.2 ok
 

@@ -12,10 +12,10 @@
 - 3.6 avoid at all costs
 - 3.8 **bulletproof**
 - 3.9 ok
-- 4.3 ok
+- 4.3 good
 
 ## 8cly
 - 4.8 good
-- 5.3 good
+- 5.3 great
 - 5.3 (with Active Fuel Managment) avoid at all costs
 - 6.0 (with Active Fuel Managment) avoid at all costs
