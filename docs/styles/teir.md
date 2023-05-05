@@ -1,11 +1,9 @@
-bulletproof
-great
-
-good
-ok
-
-bad
-troublesome
-
-nightmare
-avoid at all costs
+|Legend|
+| --- |
+| bulletproof | 🌟🌟🌟🌟🌟
+| great | ⭐⭐⭐⭐⭐
+| good | ⭐⭐⭐⭐
+| ok | ⭐⭐⭐
+| troublesome | ⭐⭐
+| nightmare | ⭐
+| avoid at all costs | 🙅‍♂️

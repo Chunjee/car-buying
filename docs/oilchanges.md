@@ -2,7 +2,7 @@
 
 Oil changes should be performed by yourself or a trusted mechanic; the risks associated with cheap "quick lube" shops is shockingly high and are often more expensive than anticipated after various upsells. Oil level should be verified before driving away if a shop is used.
 
-Ideally, oil should be checked at least once a week, even more often when you are first getting to know a vehicle.
+**Ideally, oil should be checked at least once a week, even more often when you are first getting to know a vehicle.**
 
 Stick to the oil capacity and weight the manual or manufacturer calls for. Do not use heavier weight oil.
 
