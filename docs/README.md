@@ -66,7 +66,7 @@ Important things to check for when scoping out a car that also don't take hours:
 
 
 Less-Important:
-- **Knocks or ticks:**		Using a mechanics stethoscope. Listen at the top and bottom of engine for uneven sounds. If suspect, inspect oil on dipstick for small glittering metal fragments. Noise at the top of the engine, while not ideal, are less concerning than noise at the bottom of an engine. A rattling timing chain is a walkaway.
+- **Engine sounds:**		Using a mechanics stethoscope. Listen at the top and bottom of engine for uneven sounds. Noise at the top of the engine, while not ideal, are less concerning than noise at the bottom of an engine. A rattling timing chain or timing engine codes are a walkaway.
 - **Suspension:**			While test driving, turn the radio off so you can hear everything. Make hard turns, turn and hold steering at max left and right. [Using the car's open door, lever the vehicle up and down listening for noise.](https://youtu.be/ZGb51Od62t4?t=518) With a big press, check that the car absorbs the change quickly.
 
 
