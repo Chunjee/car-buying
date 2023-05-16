@@ -4,7 +4,7 @@ Oil changes should be performed by yourself or a trusted mechanic; the risks ass
 
 **Ideally, oil should be checked at least once a week, even more often when you are first getting to know a vehicle.**
 
-Stick to the oil capacity and weight the manual or manufacturer calls for. Do not use heavier weight oil.
+Generally stick to the oil capacity and weight the manufacturer specifies. If they call for a thin oil like 0W-20; [You can use a heavier weight oil for noise reduction and reliability.](https://youtu.be/Nh9DEeDjBYU?t=129)
 
 If at all possible, replace the oil filter at every oil change. If the right filter is not available at time of change, ensure the next oil change is on time or early.
 
@@ -16,7 +16,7 @@ If you are changing the filter at every oil change, the brand of filter doesn't 
 
 
 #### Oil
-Any brand of oil is fine if the weight matches your engine. More expensive oils might be slightly better, but only marginally.
+Any brand of oil is fine; more expensive oils might be slightly better, but only marginally.
 [Costco](https://www.costco.com/motor-oil.html) and [Amazon](https://www.amazon.com/s?k=amazonbasics+motor+oil) have their own oil products that are better than average and cheaper than most.
 
 ## Change interval
