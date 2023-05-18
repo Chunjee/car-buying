@@ -44,35 +44,34 @@ You want the car to be in good shape, but that's not the same as never been scra
 Priority:
 - how well its been maintained
 - how likely it is to need major service while you own it (2-5 years)
-- how good does it drive
-
-Less-Important:
-- how nice are the cosmetics
-- how comfy is it
+- how well does it drive
 
 
 ## Absolute Basics
 Important things to check for when scoping out a car that also don't take hours:
 
-- **Title:**				The name on the title must match the seller's drivers license, or at least the last name if they are selling it for their spouse. If you are dealing with a salvage title, know how it works in your state. A salvage title is not popular but can be the source of a steep discount. If dealing with a salvage/rebuilt/etc title, you must [search the VIN on google images](https://www.google.com/search?q=2FTRX17213CA05298&tbm=isch) **and find** an image of the damage.
-- **Blown head gasket:**	Check under the radiator cap while the engine is cold. Testdrive for 15-20mins and leave the car running while you inspect the rest of the vehicle. Check for excessive white smoke in the exhaust. Hopefully with your testdrive and other chatting, 30mins or more have elapsed; ensure that the engine heat gauge stays around the halfway point or lower. 3/4th up the gauge is getting too hot, walk away. If it goes to the top of the gauge, its severley overheating. Turn the car off and walk away. If the car does not have a engine temperature gauge you, you CAN use your scanner. Most cars and trucks should stay under 205°F (96°C).
+- **Title:**				The name on the title must match the seller's drivers license, or at least the last name if they are selling it for their spouse. If you are dealing with a salvage title, know how it works in your state. A salvage title is not popular but can be the source of a steep discount. If dealing with a salvage/rebuilt/etc title, it is highly recomended to [research the VIN](https://en.bidfax.info/) **and find** an image of the damage.
+[Lien titles](https://youtu.be/SI8KGyl4468?t=183) are a no-go because you have very little way to know how much is still owed on the car.
+- **Engine Codes:**			Using your [engine scanner](https://www.amazon.com/LAUNCH-OBD2-Scanner-Universal-Automotive/dp/B07QLTYKDW) check for any engine trouble codes. Also, check under the "I/M readiness", You should see completed or good on all available monitors, "N/A" (Not Applicable) means this car doesn't check that, if you see more than one with "INC" (Incomplete) that means the seller cleared the codes less than 100 miles ago, a good sign you need to walk away (or go on a really long test drive). Ideally you would not see any incomplete tests.
+- **Blown head gasket:**	Check under the radiator cap while the engine is cold. Testdrive for 15-20mins and leave the car running while you inspect the rest of the vehicle. Check for excessive white smoke in the exhaust. Hopefully with your testdrive and other chatting, 30mins or more have elapsed; ensure that the engine heat gauge stays around the halfway point or lower. 3/4th up the gauge is getting too hot, walk away. If it goes to the top of the gauge, its severley overheating. Turn the car off and walk away. If the car does not have a engine temperature gauge, you CAN use your scanner. Most cars and trucks should stay under 205°F (96°C).
 - **Blowby:**				With the oilcap and/or dipstick off and the car running, check for blowby by holding your hand over the opening and checking how much air is coming out. Most engine designs will have some, but if it feels like the same amount that is coming out of the tailpipe, that engine is more on the worn side. It's not a walkaway, but you may not want to be spending $4000 or $5000 for it.
 - **Automatic Transmission:**			Is the fluid red? Good. Brown or black may make you consider walking away depending on price and severity. Test drive and check if it shifts smoothly multiple times is often the best you can do, especially if there isn't a transmission dipstick.
-- **Exhaust:**				Hold your hand or leg up to the tailpipe exhaust. It should be very even for a 6cyl+ car. Should be basically even for a 4cyl. If it is putting or uneven, could just be a bad sparkplug, could be a bent valve, walk away.
-- **Fuel Trim:**			Using an [engine scanner](https://www.amazon.com/LAUNCH-OBD2-Scanner-Universal-Automotive/dp/B07QLTYKDW), check for Long Term Fuel Trim (LFTF) on bank 1 and 2 (if it has a bank2). Should not go over +/-15% at idle. Should not climb when gas is held at 2,500 RPM. You will have trouble passing emissions if it exceeds +/-20% at any point. (you may see +99% if you floor the gas though)
-- **Engine Codes:**			Using your scanner check for any engine trouble codes. Again, check under the "I/M readiness", You should see completed or good on all available monitors, "N/A" (Not Applicable) means this car doesn't check that, if you see more than one with "INC" (Incomplete) that means the seller cleared the codes less than 100 miles ago, a good sign you need to walk away (or go on a really long test drive). Ideally you would not see any incomplete tests.
+- **Exhaust:**				Hold your hand or leg up to the tailpipe exhaust. It should be very even for a 6cyl+ car. Should be basically even for a 4cyl. If it is misfiring or badly sputtering, could just be a bad sparkplug, could be a bent valve; not worth the risk, walk away.
 - **[Stop and Go miles:](https://youtu.be/yK7MXNaNGho)**     Check the brake pedal and drivers seatbelt for excessive wear. If the brake pedal is worn down to metal in any area, that is typically a walkaway in my book, but the price and other conditions can be factored in.
+- **Rust:** If you live in an area where cars succumb to rust, [you should learn how to identify surface rust from rust that is about to end the car](https://youtu.be/sDsSIGOAQ28?t=196). If you aren't near that kind of area, a quick quick check that its not covered in rust and visible holes will suffice.
 
 
 
 Less-Important:
-- **Engine sounds:**		Using a mechanics stethoscope. Listen at the top and bottom of engine for uneven sounds. Noise at the top of the engine, while not ideal, are less concerning than noise at the bottom of an engine. A rattling timing chain or timing engine codes are a walkaway.
+- **Engine sounds:**		Lsten at the top and bottom of engine for uneven sounds. Noise at the top of the engine, while not ideal, are less concerning than noise at the bottom of an engine. A rattling timing chain or timing engine codes are a walkaway. A little timing rattle on startup is OK, but not on acceleration.
 - **Suspension:**			While test driving, turn the radio off so you can hear everything. Make hard turns, turn and hold steering at max left and right. [Using the car's open door, lever the vehicle up and down listening for noise.](https://youtu.be/ZGb51Od62t4?t=518) With a big press, check that the car absorbs the change quickly.
 
 
-You should be buying something with a timing chain instead of a timing belt. A timing chain with decent oil changes will last 250k miles or more. A timing belt will typically costs $500+ in labor and is moderately difficult to DIY. Unless you can see the timing belt service on carfax or an old looking mechanics sticker; assume it has not been done regardless of what the seller says. If you know the engine uses a timing chain; you can ask if the **belt** has been done recently and the seller says yes, you know you are dealing with a liar. This is an easy way to catch car-flippers in less than 30 seconds, which is a walk away.
+You should be buying something with a timing chain instead of a timing belt. A timing chain with decent oil changes will last 250k miles or more. A timing belt will typically costs $700-1100 at a shop and should be done every 100k miles depending on the exact car; negotiate that into the cost and have it done. Unless you can see the timing belt service on carfax or an old looking mechanics sticker; assume it has not been done regardless of what the seller says. If you know the engine uses a timing chain; you can ask if the **belt** has been done recently and the seller says yes, you know you are dealing with a liar. This is an easy way to catch car-flippers in less than 30 seconds, which is a walk away.
 
-If you are comfortable visiting wrecking yards or the junkyard; it can be highly benifitial to buy a car that is avaible there. If you don't do that kind of thing, you can also buy a vehichle that was produced and sold in large quantities which typically ensures that parts are commonly available.
+
+
+If you are comfortable visiting wrecking yards or the junkyard; it can be highly benifitial to buy a car that is avaible there. If you don't do that kind of thing, you can also buy a vehicle that was produced and sold in large quantities which typically ensures that parts are commonly available.
 
 
 # Model Recommendations
@@ -85,8 +84,9 @@ Not sure what model matches your prefrences? Try these:
 - [Honda](https://www.youtube.com/watch?v=kCCVeDx__9Y) ([2007-2011 Civic](https://en.wikipedia.org/wiki/Honda_Civic_(eighth_generation)), [2013-2017 Accord](https://en.wikipedia.org/wiki/Honda_Accord_(ninth_generation)), [2006-2011 CRV](https://en.wikipedia.org/wiki/Honda_CR-V_(third_generation)), [2012-2017 Oddesy](https://en.wikipedia.org/wiki/Honda_Odyssey_(North_America)#Fourth_generation_(RL5;_2011-2017)))
 - [Nissan](https://www.youtube.com/watch?v=s_Y6P_6LFMo) ([2000-2006 Sentra (1.8 or 2.0 4cyl)](https://en.wikipedia.org/wiki/Nissan_Sentra#Fifth_generation_(B15;_1999), [2002-2006 Altima (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Altima#Third_generation_(L31,_2002%E2%80%932006)), [2000-2003 Maxima (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Maxima#Fifth_generation_(A33B;_2000)), [1996-2004 Pathfinder (3.5 v6)](https://en.wikipedia.org/wiki/Nissan_Pathfinder#Second_generation_(R50;_1995)))
 - [Pontiac/Saturn/OldsMobile](https://www.youtube.com/watch?v=OCvmqzRI-BE) *good place to find a discount
-- [VolksWagon](https://www.youtube.com/watch?v=RG70UZv23dE) ([2008-2012 Golf](https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk6), [1995-2005 Jetta](https://en.wikipedia.org/wiki/Volkswagen_Jetta#Fourth_generation_(A4,_Typ_1J;_1999)), [2007-2017 Tiguan (2.0 4cyl)](https://en.wikipedia.org/wiki/Volkswagen_Tiguan#First_generation_(5N;_2007)), [2003-2008 GTI](https://en.wikipedia.org/wiki/Volkswagen_Golf#Fifth_generation_(Mk5/A5,_Typ_1K;_2003)))
+- [VolksWagon](https://www.youtube.com/watch?v=RG70UZv23dE) ([2008-2012 Golf](https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk6), [1995-2005 Jetta](https://en.wikipedia.org/wiki/Volkswagen_Jetta#Fourth_generation_(A4,_Typ_1J;_1999)), [2003-2008 GTI](https://en.wikipedia.org/wiki/Volkswagen_Golf#Fifth_generation_(Mk5/A5,_Typ_1K;_2003)))
 - [Fuel Economy](https://youtu.be/9VoRk-k94Gk) ([1995-2001 Metro](https://en.wikipedia.org/wiki/Geo_Metro#Second_generation_(1995%E2%80%932001)), [2004-2009 Prius](https://en.wikipedia.org/wiki/Toyota_Prius_(XW20)), [2010-2014 Insight](https://en.wikipedia.org/wiki/Honda_Insight#Second_generation_(ZE2/ZE3;_2009)), [1999-2006 Jetta TDI](https://en.wikipedia.org/wiki/Volkswagen_Jetta#Fourth_generation_(A4,_Typ_1J;_1999)))
+- [Around $1500](https://www.youtube.com/watch?v=W9AUjx2O2XI)
 <br>
 
 - [Midsized Trucks](https://www.youtube.com/watch?v=wWP3baxDt3w)
