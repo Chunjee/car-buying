@@ -11,15 +11,16 @@ Primarily sourced from [Ford Boss Me](https://www.youtube.com/watch?v=YcJNgXCgKf
 - [1.6 nightmare](https://youtu.be/YcJNgXCgKfg?t=802)
 - [2.0 good](https://youtu.be/YcJNgXCgKfg?t=816), Focus powershift transmission, very bad. (2015->2019) coolant intrusion
 - [2.5 great](https://youtu.be/YcJNgXCgKfg?t=904), almost bulletproof
-- [3.3 good](https://youtu.be/YcJNgXCgKfg?t=1212)
-- [3.5/3.7 good](https://youtu.be/YcJNgXCgKfg?t=1212), but timing chain waterpump is 10 hours labor and due at 100-120k
+
+
 
 
 ## 6cly
 - [2.7 great](https://youtu.be/YcJNgXCgKfg?t=448)
 - 2.9 nightmare
 - 3.0 nightmare
-- [3.5 troublesome](https://youtu.be/YcJNgXCgKfg?t=621), bad phasers
+- [3.3 good](https://youtu.be/YcJNgXCgKfg?t=1212)
+- [3.5/3.7 good](https://youtu.be/YcJNgXCgKfg?t=1212), but timing chain waterpump is 10 hours labor and due at 100-120k
 - 4.0 nightmare
 - 4.2 ok
 
